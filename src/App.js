@@ -11,7 +11,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <div className={style.root}>
-        <Login />
+        Testing react
       </div>
     </ThemeProvider>
   );
