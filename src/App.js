@@ -11,7 +11,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <div className={style.root}>
-        React gamed gedan
+        <Login />
       </div>
     </ThemeProvider>
   );
