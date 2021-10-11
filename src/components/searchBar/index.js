@@ -26,7 +26,7 @@ function SearchBar() {
         <RadioGroup row aria-label="position" name="position" defaultValue="From"  >
           <FormControlLabel value="From" control={<Radio color="primary" />} label="From" />
           <FormControlLabel value="To" control={<Radio color="primary" />} label="To" />
-          <FormControlLabel value="Name" control={<Radio color="primary" />} label="Name" />
+          <FormControlLabel value="notname" control={<Radio color="primary" />} label="Name" />
         </RadioGroup>
       </FormControl>
     </div>
